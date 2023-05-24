@@ -1,12 +1,12 @@
 ## Compilation
 
-Make sure you have Intel's PinTool installed on your computer and the environment variable PIN_ROOT is pointed to the installation path.
+Make sure you have Intel's PinTool installed on your computer (Download from [the Download Page](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html)), and the environment variable `PIN_ROOT` is pointed to the installation path.
 
 Then, run `make`.
 
 ## Run Tests
 
-`make test RUN_BINARY=/path/to/binary`
+`make test BINARY=/path/to/binary`
 
 ## Reference
 
