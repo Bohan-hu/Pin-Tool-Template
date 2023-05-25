@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I/home/hubohan/tools/pin/source/include/pin, -I/home/hubohan/tools/pin/source/include/pin/gen, -I/home/hubohan/tools/pin/extras]
